@@ -31,7 +31,7 @@ global.ownername = '😎®∾ᏒᎾᎥᎽᎪ™シ' //Owner Name
 global.botname = ' ☬sᏞ༒ᏒᎾᎥᎽᎪ' //Bot Name
 
 global.button = '🤭ටච් එකක් දාන්න අයියෝ📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥https://chat.whatsapp.com/KFp7h2ttd6R6gY0xvxDiHn😑' //Change Your Button's URL
+global.btnurl = '🙂🔥https://chat.whatsapp.com/GjlFeR3ZknXCVRxrK61n4m😑' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
